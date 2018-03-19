@@ -78,17 +78,20 @@ textarea {
 	justify-content: center;
 	margin: 0;
 	padding-top: 42px;
+	padding-bottom: 23px;
 }
 
 .ba-price__gold {
 	padding-top: 23px;
+	padding-bottom: 43px;
 }
 
 .ba-metal {
 	display: flex;
 	justify-content: center;
 	margin: 0;
-	/*padding-bottom: 37px;*/
+	padding-top: 38px;
+	padding-bottom: 35px;
 }
 
 .ba-description {
@@ -96,10 +99,4 @@ textarea {
 	justify-content: center;
 	margin: 0;
 	/*margin-bottom: 40px;*/
-}
-
-img {
-	display: block;
-	margin: auto;
-	/*padding-bottom: 38px;*/
 }
